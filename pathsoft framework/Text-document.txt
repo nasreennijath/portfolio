@@ -1,0 +1,207 @@
+    mail_outline
+    mail@example.com
+    support_agent
+    1-888-777-1234
+
+ring_volume
+Callback
+PathSoft
+
+    Home
+    expand_more
+    Services
+    expand_more
+    Pages
+    expand_more
+
+    Shop
+    expand_more
+    News
+    expand_more
+    Gallery
+    expand_more
+    Contact Us
+    expand_more
+
+    En
+    search
+    Search...
+
+Settings
+
+    Colors
+    Other
+
+Main color
+Elem. gradient1
+Elem. gradient2
+Primary color
+Primary bg color
+Secondary color
+Secondary bg color
+Text primary
+Text secondary
+Border color
+Placeholder color
+Error color
+settings
+Areas what we serv
+Our Services
+settings
+settings
+Corporate Solution
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+perm_phone_msg
+perm_phone_msg
+Call Center Solutions
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it.
+cloud_download
+cloud_download
+Cloud Development
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words.
+See All Services
+some reasons
+Why Choose Us
+01
+High Quality Hardware
+
+We use top-notch hardware to develop the most efficient apps for our customers
+02
+Dedicated 24\7 Support
+
+You can rely on our 24/7 tech support that will gladly solve any app issue you may have.
+03
+30-Day Money-back Guarantee
+
+If you are not satisfied with our apps, we will return your money in the first 30 days.
+04
+Agile and Fast Working Style
+
+This type of approach to our work helps our specialists to quickly develop better apps.
+05
+Some Apps
+are Free
+
+We also develop free apps that can be downloaded online without any payments.
+06
+High Level of Usability
+
+All our products have high usability allowing users to easily operate the apps.
+10
+Years
+Of Experience
+2K
+Аpps Developed
+40
+Consultans
+160
+Employers
+Our works
+Latest Projects
+
+    All
+    MOBILE APPS
+    CUSTOM SOFTWARE
+    QA & TESTING
+    UX AND DESIGN
+
+MPlanner
+
+We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.
+WeatherNow
+
+We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.
+Langer Messenger
+
+We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.
+Mobile Finance
+
+We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.
+RaptCash
+
+We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.
+Search by photo
+
+We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.
+See All Projects
+Who we are
+Meet The Team
+Mary Lee
+Software Developer
+
+Ryan Wilson
+CEO
+
+Sam Robinson
+Senior Developer
+
+Jill Peterson
+Senior Developer
+
+Reviews from our clients
+What People Say
+Catherine Williams
+Regular client
+
+PathSoft offers a high caliber of resources skilled in Microsoft Azure.NET, mobile and Quality Assurance. They became our true business partners over the past three years.
+Rupert Wood
+Regular client
+
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit consequuntur sequi eos beatae deleniti culpa cupiditate rerum. Similique, blanditiis rem perspiciatis fugiat voluptatem quas officiis ducimus reprehenderit.
+Samantha Brown
+Regular client
+
+We sincerely hope that each and every user entering our website will find exactly. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page.
+See All Reviews
+More info about
+Latest News
+07/01/2021
+Benefits Of Async/Await
+
+Asynchronous functions are a good and bad thing in JavaScript.
+05/01/2021
+Key Considerations Of IPaaS
+
+Digital transformation requires cloud appropriate adoption
+01/01/2021
+Hibernate Query Language
+
+In this tutorial, we will discuss the Hibernate Query Language.
+See All News
+PathSoft
+
+Our company has been developing high-quality and reliable software for corporate needs since 2008. We are renowned professionals of software development.
+
+Menu
+
+    About Us
+    Services
+    Pricing
+    News
+    Contact Us
+
+What We Offer
+
+    DB Management
+    IOS/MacOS
+    Android Apps
+    Windows Apps
+    UX & UI
+
+Our contacts
+
+    location_on
+    301 S Irving Blvd Los Angeles, CA 90020
+    smartphone
+    +1 323-913-4688, +1 323-888-4554
+    email
+    mail@example.com
+
+Subscribe
+Your email
+
+    Terms and Conditions
+    Privacy Policy
+
+© 2021 PathSoft. All rights reserved.
+
