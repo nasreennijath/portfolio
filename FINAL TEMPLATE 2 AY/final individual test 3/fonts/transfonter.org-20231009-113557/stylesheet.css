@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'IBM Plex Sans';
+    src: url('IBMPlexSans-Bold.eot');
+    src: url('IBMPlexSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('IBMPlexSans-Bold.woff2') format('woff2'),
+        url('IBMPlexSans-Bold.woff') format('woff'),
+        url('IBMPlexSans-Bold.ttf') format('truetype'),
+        url('IBMPlexSans-Bold.svg#IBMPlexSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans';
+    src: url('IBMPlexSans-Regular.eot');
+    src: url('IBMPlexSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('IBMPlexSans-Regular.woff2') format('woff2'),
+        url('IBMPlexSans-Regular.woff') format('woff'),
+        url('IBMPlexSans-Regular.ttf') format('truetype'),
+        url('IBMPlexSans-Regular.svg#IBMPlexSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
