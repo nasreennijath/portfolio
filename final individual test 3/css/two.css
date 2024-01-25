@@ -1,0 +1,170 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .maincontainer {
+    width: 1200px;
+    margin: 0px auto;
+    padding: 30px;
+  }
+  
+  .tab1-container {
+    background: #000;
+  }
+  .tab1-container a {
+    padding: 12px 15px;
+    display: inline-block;
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+  }
+  .tab1-container a:hover, .tab-container a.active {
+    background-color: #f53c3c;
+    color: #ffffff;
+  }
+  .maincontainer1{
+    width: 1200px;
+    margin: 0px auto;
+    padding: 30px;
+  }
+  
+  .tab2-container {
+    background:red;
+  }
+  .tab2-container a {
+    padding: 12px 15px;
+    display: inline-block;
+    background: red;
+    color: #fff;
+    text-decoration: none;
+  }
+  .tab2-container a:hover, .tab-container a.active {
+    background-color: #f53c3c;
+    color: #ffffff;
+  }
+  .maincontainer2{
+    width: 1173px;
+    margin: 0px auto;
+    padding: 30px;
+  }
+  
+  .tab3-container {
+    background:green;
+    margin-left:-28px;
+  }
+  .tab3-container a {
+    padding: 12px 15px;
+    display: inline-block;
+    background: green;
+    color: #fff;
+    text-decoration: none;
+  }
+  .tab3-container a:hover, .tab-container a.active {
+    background-color: #f53c3c;
+    color: #ffffff;
+  }
+  .maincontainer3{
+    width: 1173px;
+    margin: 0px auto;
+    padding: 30px;
+  }
+  
+  .tab4-container {
+    background:pink;
+    margin-left:-28px;
+  }
+  .tab4-container a {
+    padding: 12px 15px;
+    display: inline-block;
+    background: pink;
+    color: black;
+    text-decoration: none;
+  }
+  .tab4-container a:hover, .tab-container a.active {
+    background-color: #f53c3c;
+    color: #ffffff;
+  }
+  .maincontainer4{
+    width: 1173px;
+    margin: 0px auto;
+    padding: 30px;
+  }
+  
+  .tab5-container {
+    background:yellow;
+    margin-left:-28px;
+  }
+  .tab5-container a {
+    padding: 12px 15px;
+    display: inline-block;
+    background:yellow;
+    color: black;
+    text-decoration: none;
+  }
+  .tab5-container a:hover, .tab-container a.active {
+    background-color: #f53c3c;
+    color: #ffffff;
+  }
+  .maincontainer5{
+    width: 1173px;
+    margin: 0px auto;
+    padding: 30px;
+  }
+  
+  .tab6-container {
+    background:blue;
+    margin-left:-28px;
+  }
+  .tab6-container a {
+    padding: 12px 15px;
+    display: inline-block;
+    background:blue;
+    color: black;
+    text-decoration: none;
+  }
+  .tab6-container a:hover, .tab-container a.active {
+    background-color: #f53c3c;
+    color: #ffffff;
+  }
+  .maincontainer6{
+    width: 1149px;
+    margin: 0px auto;
+    padding: 30px;
+  }
+  
+  .tab7-container {
+    background:purple;
+    margin-left:-55px;
+  }
+  .tab7-container a {
+    padding: 12px 15px;
+    display: inline-block;
+    background: purple;
+    color: white;
+    text-decoration: none;
+  }
+  .tab7-container a:hover, .tab-container a.active {
+    background-color: #f53c3c;
+    color: #ffffff;
+  }
+  .maincontainer7{
+    width: 1149px;
+    margin: 0px auto;
+    padding: 30px;
+  }
+  
+  .tab8-container {
+    background:gray;
+    margin-left:-55px;
+  }
+  .tab8-container a {
+    padding: 12px 15px;
+    display: inline-block;
+    background: gray;
+    color: white;
+    text-decoration: none;
+  }
+  .tab8-container a:hover, .tab-container a.active {
+    background-color: #f53c3c;
+    color: #ffffff;
+  }

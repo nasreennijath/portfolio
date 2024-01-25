@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="Generator" content="EditPlus®">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+<title>Document</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/two.css">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
+<!-- jQuery library -->
+<script src="js/jquery.min.js"></script>
+<!-- Latest compiled JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function()
+		{
+			$('.tab1-container a').click(function()
+			{
+				$(this).addClass("active");
+			});
+            $('.tab2-container a').click(function()
+			{
+				var ayesha = 'welcome to our training center';
+                alert(ayesha);
+			});
+            $('.tab3-container a').click(function()
+			{
+				alert('ayesha');
+                var a = $(this).text();
+                alert(a)
+			});
+            $('.tab4-container a').click(function()
+			{
+                var a = $(this).next().text();
+                alert(a);
+			});
+            $('.tab5-container a').click(function()
+			{
+                var a = $(this).prev().text();
+                alert(a);
+			});
+            $('.tab6-container a').click(function()
+			{
+                var para = $(this).text();
+                $('.element').text(para);
+			});
+            $('.tab7-container a').click(function()
+			{
+                var read1 = $(this).text();
+                var read2 = $(this).next().text();
+                $(this).next().text(read1);
+                $(this).text(read2);
+			});
+            $('.tab8-container a').click(function()
+			{
+				var element = $(this).text();
+				$(this).prevAll().text("ayesha");
+			});
+		});
+</script>
+</head>
+<body>
+    <div class="maincontainer">
+        <div class="tab1-container">
+           <a href="javascript:;">Home</a>
+           <a href="javascript:;">About</a>
+           <a href="javascript:;">Services</a>
+           <a href="javascript:;">Contacts</a>             
+           <a href="javascript:;">Gallery</a>             
+           <a href="javascript:;">Faq's</a>        
+        </div> 
+   </div>
+   <div class="maincontainer1">
+    <div class="tab2-container">
+       <a href="javascript:;">Home</a>
+       <a href="javascript:;">About</a>
+       <a href="javascript:;">Services</a>
+       <a href="javascript:;">Contacts</a>             
+       <a href="javascript:;">Gallery</a>             
+       <a href="javascript:;">Faq's</a>        
+    </div> 
+    <div class="maincontainer2">
+        <div class="tab3-container">
+           <a href="javascript:;">Home</a>
+           <a href="javascript:;">About</a>
+           <a href="javascript:;">Services</a>
+           <a href="javascript:;">Contacts</a>             
+           <a href="javascript:;">Gallery</a>             
+           <a href="javascript:;">Faq's</a>        
+        </div> 
+    </div>
+    <div class="maincontainer3">
+        <div class="tab4-container">
+           <a href="javascript:;">Home</a>
+           <a href="javascript:;">About</a>
+           <a href="javascript:;">Services</a>
+           <a href="javascript:;">Contacts</a>             
+           <a href="javascript:;">Gallery</a>             
+           <a href="javascript:;">Faq's</a>        
+        </div> 
+    </div>
+    <div class="maincontainer4">
+        <div class="tab5-container">
+           <a href="javascript:;">Home</a>
+           <a href="javascript:;">About</a>
+           <a href="javascript:;">Services</a>
+           <a href="javascript:;">Contacts</a>             
+           <a href="javascript:;">Gallery</a>             
+           <a href="javascript:;">Faq's</a>        
+        </div> 
+   </div>
+   <div class="maincontainer5">
+    <div class="tab6-container">
+       <a href="javascript:;">Home</a>
+       <a href="javascript:;">About</a>
+       <a href="javascript:;">Services</a>
+       <a href="javascript:;">Contacts</a>             
+       <a href="javascript:;">Gallery</a>             
+       <a href="javascript:;">Faq's</a>        
+    </div> 
+    <p class="element"></p>
+    <div class="maincontainer6">
+        <div class="tab7-container">
+           <a href="javascript:;">Home</a>
+           <a href="javascript:;">About</a>
+           <a href="javascript:;">Services</a>
+           <a href="javascript:;">Contacts</a>             
+           <a href="javascript:;">Gallery</a>             
+           <a href="javascript:;">Faq's</a>        
+        </div> 
+   </div>
+   <div class="maincontainer7">
+    <div class="tab8-container">
+       <a href="javascript:;">Home</a>
+       <a href="javascript:;">About</a>
+       <a href="javascript:;">Services</a>
+       <a href="javascript:;">Contacts</a>             
+       <a href="javascript:;">Gallery</a>             
+       <a href="javascript:;">Faq's</a>        
+    </div> 
+</div>
+</div>
+</div>
+</body>
+</html>

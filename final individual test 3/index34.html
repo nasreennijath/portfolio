@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="Generator" content="EditPlus®">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+<title>Document</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/one.css">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
+<!-- jQuery library -->
+<script src="js/jquery.min.js"></script>
+<!-- Latest compiled JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+<script type="text/javascript">
+		$(document).ready(function()
+		{
+			$('.tab-container a').click(function()
+			{
+				var a=$(this).attr("title");
+				var element = $(this).text();
+				if(a =="4" || a=="2")
+				{
+					$(".result").text('condition true.clicked Tag name is '+ element).addClass("true").removeClass("false");
+					$(this).addClass("active");
+					console.log(element);
+					//alert("condition true");
+				}
+				else
+				{
+					$(".result").text('condition false.clicked tag name is '+ element).addClass("false").removeClass("true");
+				}
+			});
+		});
+</script>
+</head>
+<body>
+<div class="maincontainer">
+	 <div class="tab-container">
+		<a href="javascript:;" title="1">Home</a>
+		<a href="javascript:;" title="2">About</a>
+		<a href="javascript:;" title="3">Services</a>
+		<a href="javascript:;" title="4">Contacts</a>             
+		<a href="javascript:;" title="5">Gallery</a>             
+		<a href="javascript:;" title="6">Faq's</a>        
+	 </div> 
+	 <p class="result"></p>
+</div>
+</body>
+</html>

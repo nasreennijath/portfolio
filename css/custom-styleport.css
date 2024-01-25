@@ -1,0 +1,521 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.headercontainer .navbar-inverse {
+  background: white;
+  border: 0px;
+}
+.headercontainer .navbar-inverse .port img {
+  width: 61%;
+  margin-top: -5px;
+}
+.headercontainer .navbar-inverse .navbar-nav > li > a {
+  color: black;
+  background: none;
+  font-size: 19px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.headercontainer .navbar-inverse .navbar-nav > li > a:hover {
+  color: green;
+  background: none;
+}
+.headercontainer .menucontainer {
+  border: 0px;
+}
+.headercontainer .navbar-right {
+  margin-top: -27px;
+  padding-right: 0px;
+  background: none;
+  color: black;
+}
+.headercontainer .navbar-right a {
+  color: black;
+  font-weight: bold;
+  background: none;
+  font-size: 14px;
+}
+.headercontainer .navbar-right a:hover .headercontainer .navbar-right a.active {
+  color: red;
+  background: none;
+}
+.headercontainer .navbar-right .nav .open > a, .headercontainer .navbar-right .nav .open > a:focus, .headercontainer .navbar-right .nav .open > a:hover {
+  background: none;
+}
+
+.bodycontainer {
+  margin-top: 150px;
+}
+.bodycontainer #profilecontainer .profile img {
+  margin-left: 100px;
+  width: 50%;
+  height: 304px;
+  border-radius: 100%;
+}
+.bodycontainer #profilecontainer .protxt {
+  margin-left: -209px;
+}
+.bodycontainer #profilecontainer .protxt h1 {
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.bodycontainer #profilecontainer .protxt h2 {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+.bodycontainer #profilecontainer .protxt ul {
+  padding-left: 311px;
+  margin-top: 20px;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.bodycontainer .banner {
+  padding-left: 284px;
+  margin-top: 30px;
+}
+.bodycontainer .banner a {
+  border: 1px solid black;
+  text-transform: capitalize;
+  text-decoration: none;
+  color: black;
+  padding: 10px 18px;
+  border-radius: 30px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 8px;
+  background: green;
+}
+.bodycontainer .banner a:hover {
+  background: white;
+}
+.bodycontainer .protxt1 {
+  margin-top: 90px;
+}
+.bodycontainer .protxt1 h1 {
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.bodycontainer .protxt1 h2 {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+.bodycontainer .little1 {
+  margin-top: 50px;
+}
+.bodycontainer .little1 img {
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+}
+.bodycontainer .little2 {
+  margin-top: 50px;
+  border: 1px solid gray;
+  border-radius: 20px;
+  text-align: center;
+  padding: 25px 0px;
+}
+.bodycontainer .little2 a {
+  color: green;
+  font-size: 30px;
+}
+.bodycontainer .little2 h1 {
+  color: black;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 30px;
+}
+.bodycontainer .little2 h2 {
+  color: black;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.bodycontainer .little2 h3 {
+  color: black;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.bodycontainer .education p {
+  font-size: 16px;
+  text-transform: capitalize;
+  color: black;
+  text-align: justify;
+  line-height: 25px;
+}
+.bodycontainer .explore1 {
+  margin-top: 150px;
+}
+.bodycontainer .explore1 h1 {
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.bodycontainer .explore1 h2 {
+  color: black;
+  padding-bottom: 50px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+.bodycontainer .skills {
+  margin-top: 50px;
+}
+.bodycontainer .skills h1 {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+.bodycontainer .rent1 {
+  margin-top: 50px;
+}
+.bodycontainer .rent1 img {
+  width: 100%;
+}
+.bodycontainer .com {
+  margin-top: 68px;
+}
+.bodycontainer .com h1 {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.bodycontainer .rent2 {
+  margin-top: 50px;
+}
+.bodycontainer .rent2 img {
+  width: 100%;
+  height: 53px;
+  margin-top: 4px;
+}
+.bodycontainer .com2 {
+  margin-top: 68px;
+}
+.bodycontainer .com2 h1 {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.bodycontainer .lan1 {
+  margin-top: 10px;
+  margin-bottom: 80px;
+}
+.bodycontainer .lan1 a {
+  font-size: 40px;
+  color: black;
+}
+.bodycontainer .lan2 {
+  margin-bottom: 80px;
+}
+.bodycontainer .lan2 h1 {
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.bodycontainer .lan2 h2 {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.bodycontainer .recent {
+  border: 1px solid gray;
+  padding: 30px 30px 40px;
+  border-radius: 20px;
+  background: white;
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+.bodycontainer .recent img {
+  width: 100%;
+  border-radius: 10px;
+}
+.bodycontainer .recent h3 {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  text-transform: capitalize;
+  padding-bottom: 20px;
+}
+.bodycontainer .recent a {
+  border: 1px solid gray;
+  padding: 12px 20px;
+  text-decoration: none;
+  color: black;
+  border-radius: 25px;
+  font-size: 20px;
+  margin-left: 58px;
+}
+.bodycontainer .recent1 {
+  border: 1px solid gray;
+  margin-top: 50px;
+  padding: 30px 30px 40px;
+  border-radius: 20px;
+  background: white;
+  margin-bottom: 30px;
+}
+.bodycontainer .recent1 img {
+  width: 100%;
+  border-radius: 10px;
+  height: 341px;
+}
+.bodycontainer .recent1 h3 {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  text-transform: capitalize;
+  padding-bottom: 20px;
+}
+.bodycontainer .recent1 a {
+  border: 1px solid gray;
+  padding: 12px 20px;
+  text-decoration: none;
+  color: black;
+  border-radius: 25px;
+  font-size: 20px;
+  margin-left: 58px;
+}
+.bodycontainer .recent3 {
+  border: 1px solid gray;
+  margin-top: 30px;
+  padding: 30px 30px 40px;
+  border-radius: 20px;
+  background: white;
+}
+.bodycontainer .recent3 img {
+  width: 100%;
+  border-radius: 10px;
+  height: 341px;
+}
+.bodycontainer .recent3 h3 {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  text-transform: capitalize;
+  padding-bottom: 20px;
+}
+.bodycontainer .recent3 a {
+  border: 1px solid gray;
+  padding: 12px 20px;
+  text-decoration: none;
+  color: black;
+  border-radius: 25px;
+  font-size: 20px;
+  margin-left: 58px;
+}
+.bodycontainer .recent4 {
+  border: 1px solid gray;
+  padding: 30px 30px 40px;
+  border-radius: 20px;
+  background: white;
+  margin-top: 30px;
+}
+.bodycontainer .recent4 img {
+  width: 100%;
+  border-radius: 10px;
+  height: 341px;
+}
+.bodycontainer .recent4 h3 {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  text-transform: capitalize;
+  padding-bottom: 20px;
+}
+.bodycontainer .recent4 a {
+  border: 1px solid gray;
+  padding: 12px 20px;
+  text-decoration: none;
+  color: black;
+  border-radius: 25px;
+  font-size: 20px;
+  margin-left: 58px;
+}
+.bodycontainer .recent5 {
+  border: 1px solid gray;
+  padding: 30px 30px 40px;
+  border-radius: 20px;
+  background: white;
+  margin-top: 30px;
+}
+.bodycontainer .recent5 img {
+  width: 100%;
+  border-radius: 10px;
+  height: 341px;
+}
+.bodycontainer .recent5 h3 {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  text-transform: capitalize;
+  padding-bottom: 20px;
+}
+.bodycontainer .recent5 a {
+  border: 1px solid gray;
+  padding: 12px 20px;
+  text-decoration: none;
+  color: black;
+  border-radius: 25px;
+  font-size: 20px;
+  margin-left: 58px;
+}
+.bodycontainer .recent6 {
+  border: 1px solid gray;
+  padding: 30px 30px 40px;
+  border-radius: 20px;
+  background: white;
+  margin-top: 50px;
+}
+.bodycontainer .recent6 img {
+  width: 100%;
+  border-radius: 10px;
+  height: 341px;
+}
+.bodycontainer .recent6 h3 {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  text-transform: capitalize;
+  padding-bottom: 20px;
+}
+.bodycontainer .recent6 a {
+  border: 1px solid gray;
+  padding: 12px 20px;
+  text-decoration: none;
+  color: black;
+  border-radius: 25px;
+  font-size: 20px;
+  margin-left: 58px;
+}
+.bodycontainer .email1 {
+  padding: 20px 30px 40px 30px;
+  text-align: center;
+  border: 1px solid gray;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+.bodycontainer .email1 a {
+  color: green;
+  font-size: 30px;
+  font-weight: bold;
+}
+.bodycontainer .email1 h1 {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.bodycontainer .email1 .num1 {
+  color: black;
+  font-size: 16px;
+  text-align: center;
+}
+.bodycontainer .phone {
+  padding: 20px 30px 40px 30px;
+  text-align: center;
+  border: 1px solid gray;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+.bodycontainer .phone a {
+  color: green;
+  font-size: 30px;
+  font-weight: bold;
+}
+.bodycontainer .phone h1 {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.bodycontainer .phone .num {
+  color: black;
+  font-size: 16px;
+  text-align: center;
+}
+.bodycontainer .address {
+  padding: 20px 30px 26px 30px;
+  border: 1px solid gray;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 30px;
+}
+.bodycontainer .address a {
+  color: green;
+  font-size: 30px;
+  font-weight: bold;
+}
+.bodycontainer .address h1 {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.bodycontainer .address h2 {
+  color: black;
+  font-size: 18px;
+  text-transform: capitalize;
+}
+.bodycontainer .risk1 {
+  text-align: center;
+  border: 1px solid green;
+  border-radius: 20px;
+  margin-top: 100px;
+  padding: 30px 0px;
+}
+.bodycontainer .risk1 a {
+  color: green;
+  font-size: 30px;
+  text-align: center;
+}
+.bodycontainer .risk1 h1 {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.bodycontainer .copy h1 {
+  color: black;
+  margin-top: 60px;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+  text-transform: capitalize;
+}
+.bodycontainer .bottom2 .scroll-top {
+  font-size: 24px;
+  color: white;
+  border-radius: 0px;
+  background: green;
+  padding: 7px 16px;
+  position: fixed;
+  bottom: -4px;
+  right: 112px;
+}
+.bodycontainer .bottom2 .scroll-top i {
+  display: inline-block;
+  color: white;
+}/*# sourceMappingURL=custom-styleport.css.map */
